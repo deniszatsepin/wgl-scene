@@ -1,0 +1,16 @@
+{
+  "name": "wgl-scene",
+  "repo": "deniszatsepin/wgl-scene",
+  "description": "WebGl scene",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+	  "deniszatsepin/gl-matrix": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "scene.js",
+  "scripts": [
+    "scene.js"
+  ]
+}
